@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_dashboard"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/nav_children"
+            android:icon="@drawable/ic_people"
+            android:title="Children" />
+        <item
+            android:id="@+id/nav_games"
+            android:icon="@drawable/ic_sports_esports"
+            android:title="Games" />
+        <item
+            android:id="@+id/nav_reports"
+            android:icon="@drawable/ic_assessment"
+            android:title="Reports" />
+    </group>
+
+
+</menu>

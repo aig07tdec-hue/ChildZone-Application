@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ChildZone Admin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="dashboard_overview">Dashboard Overview</string>
+    <string name="total_children">Total Children</string>
+    <string name="total_score">Total Score</string>
+    <string name="avg_progress">Avg Progress</string>
+    <string name="total_playtime">Total Playtime</string>
+    <string name="total_rewards">Total Rewards</string>
+    <string name="learning_overview">Learning Overview</string>
+    <string name="weekly_engagement">Weekly Engagement</string>
+    <string name="engagement_description">Total playtime this week has increased by 12% compared to last week.</string>
+    <string name="game_sync_warning">Game management requires game data synchronization. Currently, game metadata exists only in the original ChildZone application\'s local database.</string>
+    <string name="demo_data_pending">Demo Data / Integration Pending</string>
+    <string name="game_management_info">Enable or disable games globally for all ChildZone users.</string>
+    <string name="reports_title">System Reports</string>
+    <string name="child_details_title">Child Details</string>
+    <string name="child_id_label">ID: #%s</string>
+    <string name="parent_label">Parent: %s</string>
+    <string name="age_class_label">Age: %s | Class: %s</string>
+    <string name="no_children_registered">No children registered yet.</string>
+    <string name="error_fetch_data">Error fetching data: %s</string>
+</resources>

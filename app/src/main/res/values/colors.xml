@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_bg">#FF2B2B2B</color>
+    <color name="gray_surface">#FF383838</color>
+    <color name="gray_dark">#FF1A1A1A</color>
+    <color name="gray_light">#FFBDBDBD</color>
+
+    <!-- Bottom Navigation Pill Colors (Material 3) -->
+    <color name="m3_pill_color">#D0BCFF</color>
+    <color name="m3_on_pill_color">#381E72</color>
+
+    <!-- Theme Colors -->
+    <color name="colorPrimary">@color/white</color>
+    <color name="colorSecondary">@color/gray_light</color>
+    <color name="backgroundColor">@color/gray_bg</color>
+    <color name="surfaceColor">@color/gray_surface</color>
+    <color name="errorColor">@color/white</color>
+    <color name="colorAccent">#6750A4</color>
+    <color name="colorProgressFill">#D0BCFF</color>
+</resources>

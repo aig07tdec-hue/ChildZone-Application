@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969262287164",
+    "firebase_url": "https://childzone-f3bf5-default-rtdb.firebaseio.com",
+    "project_id": "childzone-f3bf5",
+    "storage_bucket": "childzone-f3bf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969262287164:android:3ba56b4f721f999466b639",
+        "android_client_info": {
+          "package_name": "com.childzone.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969262287164-04mjsctn69ao7tqluf51hl0kbl04q1hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5xBijnf2ZuiekcQxRF40bWLes44w-se4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969262287164-04mjsctn69ao7tqluf51hl0kbl04q1hk.apps.googleusercontent.com",
+              "client_type": 3
+        }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
